@@ -1,0 +1,32 @@
+div {
+    /* padding: 650px;
+    padding-top: 10px;
+    padding-bottom: 40px; */
+    border: 10px solid;
+    margin-left: 450px;
+    margin-right: 9000px;
+    padding-right: 60px;
+    background-image: url('gamebg.jpg');
+    /* background:radial-gradient(pink,rgb(238, 144, 159),rgb(240, 122, 142),rgb(248, 94, 120),rgb(243, 72, 101),rgb(225, 51, 80),rgb(187, 21, 49),rgb(255, 1, 43),rgb(188, 2, 33),rgb(150, 2, 27),rgb(114, 2, 21),rgb(81, 1, 14)); */
+    background-image: url('div bg.jpg');
+    text-align: center; /* Aligns text to the left */
+    width: 500px;
+    height: 200px;
+    border-style: groove;
+    border-color:pink;
+    border-radius: 10px;
+    color: rgb(248, 72, 113);
+    
+
+}
+button{
+    color: red;
+}
+center,h1{
+color: rgb(250, 215, 230);
+}
+body{
+    background-image: url('gamebg.jpg');
+    /* background:radial-gradient(pink,rgb(238, 144, 159),rgb(240, 122, 142),rgb(248, 94, 120),rgb(225, 51, 80),rgb(187, 21, 49),rgb(255, 1, 43)); */
+    background-attachment: fixed;
+}
